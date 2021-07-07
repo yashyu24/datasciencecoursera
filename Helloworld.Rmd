@@ -1,0 +1,10 @@
+---
+title: "Helloworld"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+## This is a Markdown file
